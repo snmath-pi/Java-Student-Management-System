@@ -35,7 +35,7 @@ Each course costs $600 to enroll.
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/java-student-management-sytem.git
+    git clone https://github.com/yourusername/java-student-management-system.git
     ```
 
 2. Open the project in your IDE.
