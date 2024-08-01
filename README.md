@@ -2,6 +2,12 @@
 
 This Java project is designed to manage student enrollments and balances for a university. As a Database Administrator (DBA), you can use this application to add new students, enroll them in courses, view their balance, and manage tuition payments.
 
+## Demo Video
+
+Watch the demo video to see the application in action:
+
+[![Student Database Application Demo](https://youtu.be/i1Ozeo_IlSE.jpg)](https://youtu.be/i1Ozeo_IlSE)
+
 ## Features
 
 - Add new students to the database
